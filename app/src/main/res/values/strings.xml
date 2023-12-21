@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">recipeAppV2</string>
+    <string name="recipe_title_hint">Enter the name of Recipe</string>
+    <string name="recipe_description_hint">Enter the description of the recipe</string>
+</resources>
